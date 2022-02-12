@@ -13,7 +13,7 @@ By the way, I do love feedback!
 - 📫 How to reach me: [Here!](https://www.screentogif.com/contact)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm from Brazil?! Sometimes, people get surprised with that.
-- 💛 Would you like to support my work? [So, make a donation](https://www.screentogif.com/donate)
+- 💛 Would you like to support my work? [Make a donation :)](https://www.screentogif.com/donate)
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/NickeManarin)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Nickesm)
